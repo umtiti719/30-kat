@@ -2,4 +2,5 @@
 
 Zombi salgınında apartmanın 30. katında mahsur kalıp 30 gün hayatta kalmaya çalıştığın tarayıcı oyunu.
 
-Oyna: https://umtiti719.github.io/30-kat/
+- 3B sürüm: https://umtiti719.github.io/30-kat/
+- 2B sürüm: https://umtiti719.github.io/30-kat/2d.html
