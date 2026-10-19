@@ -11,7 +11,7 @@ her şeyin doğrusu burada durur.
 - Kullanıcı kodlamaya yeni başlıyor: açıklamaları sade Türkçeyle yap.
 
 ## Dosyalar
-- `index.html` — oyunun 3B sürümü (Three.js r128, cdnjs'ten yüklenir). Tüm kod tek dosyada.
+- `index.html` — oyunun 3B sürümü (Three.js r128 cdnjs, post-processing dosyaları jsdelivr three@0.128.0/examples/js). Tüm kod tek dosyada.
   Modeller kodla üretiliyor, dışarıdan model dosyası yok.
 - `2d.html` — eski 2B (SVG) sürüm, arşiv olarak duruyor.
 - `.nojekyll` — GitHub Pages için.
@@ -27,3 +27,7 @@ her şeyin doğrusu burada durur.
 - `ACTIONS`: gündüz eylemleri. `pickEvent()`: gece olayları (2., 3., 5., 8., 11., 13., 19., 24. günler sabit olaylar).
 - `build3D()` / `updateScene()` / `loop()`: 3B sahne. `SPOT3`: karakterin gittiği noktalar.
 - Olay pencerelerindeki çizimler (`peepSVG`, `artFire`, `artHeli`...) SVG olarak kaldı.
+
+## Görsel yön
+- Kasvetli, salgın atmosferi: soluk renkler, sis, yanan şehir, titreyen lamba, mum ışığı, film greni ve vinyet.
+- Neşeli/çizgi film renklerinden kaçın. Olay pencerelerindeki 2B SVG çizimler henüz bu tona uyarlanmadı.
